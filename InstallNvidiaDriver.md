@@ -3,6 +3,7 @@ layout: doc
 title: InstallNvidiaDriver
 permalink: /doc/InstallNvidiaDriver/
 redirect_from: /wiki/InstallNvidiaDriver/
+section: installation
 ---
 
 Nvidia proprietary driver installation
