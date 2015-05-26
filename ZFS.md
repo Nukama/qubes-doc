@@ -3,6 +3,7 @@ layout: doc
 title: ZFS
 permalink: /doc/ZFS/
 redirect_from: /wiki/ZFS/
+section: installation
 ---
 
 ZFS in Qubes

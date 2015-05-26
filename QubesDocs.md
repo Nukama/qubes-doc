@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: QubesDocs
-permalink: /doc/
+permalink: /doc/home/
 redirect_from: \
   /doc/QubesDocs/
   /wiki/QubesDocs/

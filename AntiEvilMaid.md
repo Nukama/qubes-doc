@@ -3,6 +3,7 @@ layout: doc
 title: AntiEvilMaid
 permalink: /doc/AntiEvilMaid/
 redirect_from: /wiki/AntiEvilMaid/
+section: installation
 ---
 
 Installing and Using Anti Evil Maid (AEM) with Qubes OS
